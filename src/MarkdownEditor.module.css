@@ -1,0 +1,28 @@
+
+.container {
+    border: 1px solid #eee;
+    font-family: 'helvetica-neue', Helvetica, Arial, sans-serif;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    user-select: none;
+    background-color: #f4f4f4;
+}
+
+.controlsToggle {
+    padding : 5px;
+    font-size: 14px;
+    color : #222;
+    user-select: none;
+    cursor : pointer;
+}
+
+.editor {
+
+}
+
+.preview {
+
+}
